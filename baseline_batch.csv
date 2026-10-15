@@ -1,0 +1,201 @@
+candidate_id,recruiter,experience_years,domain,skills,location,notice_period_days,rejection_reason,decision
+SYN-B-001,R1,5.1,E-commerce,"Kubernetes, Microservices, Kafka",Pune,90,Missing critical skills,Rejected
+SYN-B-002,R2,6.5,SaaS,"Java, Spring Boot, Kubernetes, Microservices, AWS",Bengaluru,90,,Shortlisted
+SYN-B-003,R1,5.3,SaaS,"Java, Microservices, Kubernetes, REST APIs",Remote,60,Missing critical skills,Rejected
+SYN-B-004,R3,2.8,IT Services,"System Design, Docker, REST APIs, AWS",Remote,90,Too junior,Rejected
+SYN-B-005,R3,5.1,Banking,"Java, Spring Boot, Microservices, Kafka, System Design",Pune,90,Notice period too long,Rejected
+SYN-B-006,R2,9.4,E-commerce,"Java, Spring Boot, Docker, Kubernetes",Pune,60,,Shortlisted
+SYN-B-007,R2,6.5,Banking,"Java, Spring Boot, Microservices, Docker",Delhi NCR,60,Insufficient production ownership,Rejected
+SYN-B-008,R3,7.5,E-commerce,"Java, Spring Boot, Docker, System Design, AWS, SQL",Remote,30,,Shortlisted
+SYN-B-009,R3,6.5,Developer Tools,"Java, REST APIs, Kafka",Pune,90,Missing critical skills,Rejected
+SYN-B-010,R3,2.5,E-commerce,"Java, Spring Boot, SQL, Docker, Microservices, Kafka",Hyderabad,45,Too junior,Rejected
+SYN-B-011,R2,6.3,IT Services,"Java, Spring Boot, REST APIs, Kafka, Docker, System Design",Hyderabad,60,,Shortlisted
+SYN-B-012,R1,9.9,Banking,"Java, Kubernetes, Kafka",Bengaluru,45,Missing critical skills,Rejected
+SYN-B-013,R2,4.8,E-commerce,"Java, Spring Boot, Docker, AWS, Kubernetes, System Design",Pune,90,Notice period too long,Rejected
+SYN-B-014,R3,0.6,SaaS,"Java, Spring Boot, Kafka, System Design, Kubernetes, SQL",Bengaluru,30,Too junior,Rejected
+SYN-B-015,R3,5.3,Banking,"Java, Spring Boot, AWS, System Design, REST APIs",Delhi NCR,90,Notice period too long,Rejected
+SYN-B-016,R3,2.9,IT Services,"Docker, REST APIs",Pune,60,Too junior,Rejected
+SYN-B-017,R1,4.7,IT Services,"Kubernetes, REST APIs, AWS",Bengaluru,90,Missing critical skills,Rejected
+SYN-B-018,R3,4.2,Healthcare,"Java, Spring Boot, Kubernetes, Microservices",Pune,45,Too junior,Rejected
+SYN-B-019,R2,3.3,Banking,"Java, Spring Boot, System Design, REST APIs",Remote,60,Too junior,Rejected
+SYN-B-020,R1,5.2,E-commerce,"Java, Spring Boot, REST APIs, System Design",Hyderabad,30,,Shortlisted
+SYN-B-021,R3,4.9,Banking,"Java, Spring Boot, REST APIs, Kubernetes, System Design, Kafka",Pune,60,,Shortlisted
+SYN-B-022,R3,5.8,FinTech,"Java, Spring Boot, Microservices, SQL, AWS",Remote,15,,Shortlisted
+SYN-B-023,R2,6.8,E-commerce,"Java, Spring Boot, Docker, SQL",Pune,90,Notice period too long,Rejected
+SYN-B-024,R3,2.5,E-commerce,"Java, Spring Boot, AWS, SQL, Kubernetes, Microservices",Pune,45,Too junior,Rejected
+SYN-B-025,R2,5.6,IT Services,"Java, Spring Boot, AWS, Kubernetes",Pune,30,,Shortlisted
+SYN-B-026,R1,1.4,Developer Tools,"Microservices, REST APIs, Kafka",Hyderabad,60,Too junior,Rejected
+SYN-B-027,R2,3.3,E-commerce,"Java, Kubernetes, SQL, Microservices",Pune,15,Too junior,Rejected
+SYN-B-028,R3,4.0,E-commerce,"Java, Spring Boot, System Design, Docker, Kubernetes",Bengaluru,30,Too junior,Rejected
+SYN-B-029,R1,0.5,IT Services,"Java, Spring Boot, Kafka, AWS, REST APIs, Docker",Delhi NCR,60,Too junior,Rejected
+SYN-B-030,R2,5.1,Banking,"Java, Spring Boot, SQL, Microservices, System Design, REST APIs",Remote,15,,Shortlisted
+SYN-B-031,R1,5.0,FinTech,"Java, Spring Boot, AWS, System Design, REST APIs, Kafka",Pune,60,,Shortlisted
+SYN-B-032,R3,4.9,Banking,"Java, Spring Boot, REST APIs, Kafka, Kubernetes",Remote,90,,Shortlisted
+SYN-B-033,R2,8.4,Banking,"Java, Spring Boot, Kubernetes, REST APIs",Remote,90,,Shortlisted
+SYN-B-034,R2,5.5,E-commerce,"Java, REST APIs, System Design, Kubernetes",Delhi NCR,30,Missing critical skills,Rejected
+SYN-B-035,R2,3.6,Developer Tools,"Java, Spring Boot, Microservices, Docker",Bengaluru,90,Notice period too long,Rejected
+SYN-B-036,R1,4.1,E-commerce,"Java, Spring Boot, System Design, Kubernetes",Pune,45,Insufficient production ownership,Rejected
+SYN-B-037,R3,3.3,Banking,"Java, Microservices, AWS",Pune,30,Too junior,Rejected
+SYN-B-038,R2,5.4,Banking,"Microservices, SQL",Bengaluru,90,Missing critical skills,Rejected
+SYN-B-039,R1,2.3,Banking,"Kubernetes, System Design, REST APIs, Microservices",Remote,45,Too junior,Rejected
+SYN-B-040,R1,3.7,Developer Tools,"Java, Spring Boot, System Design, Kafka, Microservices, AWS",Delhi NCR,30,,Shortlisted
+SYN-B-041,R2,3.9,Banking,"Java, Spring Boot, Microservices, Kafka",Bengaluru,60,Location mismatch,Rejected
+SYN-B-042,R3,9.1,Healthcare,"Java, Spring Boot, Kafka, AWS, Docker, System Design",Hyderabad,30,,Shortlisted
+SYN-B-043,R3,1.2,Banking,"Java, Microservices, Kafka, System Design, Kubernetes",Bengaluru,90,Too junior,Rejected
+SYN-B-044,R1,2.5,Banking,"Java, Spring Boot, SQL, REST APIs, Microservices, Docker",Hyderabad,90,Too junior,Rejected
+SYN-B-045,R3,4.3,Developer Tools,"Java, Spring Boot, System Design, AWS, REST APIs, Docker",Remote,60,Too junior,Rejected
+SYN-B-046,R1,3.3,IT Services,"AWS, Kafka, SQL",Pune,90,Missing critical skills,Rejected
+SYN-B-047,R1,0.8,IT Services,"Java, Spring Boot, Microservices, System Design, Docker, Kafka",Hyderabad,60,Too junior,Rejected
+SYN-B-048,R3,8.5,Developer Tools,"Java, Spring Boot, Kafka, SQL, REST APIs",Remote,60,,Shortlisted
+SYN-B-049,R1,3.9,IT Services,"Java, Spring Boot, Docker, REST APIs, Kubernetes, SQL",Pune,60,,Shortlisted
+SYN-B-050,R2,1.6,E-commerce,"Java, Spring Boot, System Design, Microservices, SQL, AWS",Remote,90,Too junior,Rejected
+SYN-B-051,R1,5.9,Developer Tools,"Java, Docker, System Design",Pune,60,Missing critical skills,Rejected
+SYN-B-052,R2,4.8,IT Services,"Java, Spring Boot, REST APIs, Kubernetes",Bengaluru,60,,Shortlisted
+SYN-B-053,R3,4.9,IT Services,"Java, Spring Boot, SQL, Kubernetes, System Design",Hyderabad,90,,Shortlisted
+SYN-B-054,R2,3.3,E-commerce,"Java, Spring Boot, REST APIs, Kafka, Docker, Microservices",Delhi NCR,45,Too junior,Rejected
+SYN-B-055,R3,5.4,FinTech,"Java, Spring Boot, Kafka, Kubernetes, Microservices, System Design",Delhi NCR,90,Notice period too long,Rejected
+SYN-B-056,R2,2.1,IT Services,"Java, Spring Boot, Microservices, System Design",Bengaluru,60,Too junior,Rejected
+SYN-B-057,R1,7.3,SaaS,"Java, Spring Boot, Docker, System Design, REST APIs, Kafka",Delhi NCR,60,,Shortlisted
+SYN-B-058,R1,0.8,Developer Tools,"Java, Spring Boot, Docker, REST APIs, Kafka",Hyderabad,60,Too junior,Rejected
+SYN-B-059,R3,7.8,IT Services,"Java, Spring Boot, Docker, Microservices",Hyderabad,90,Notice period too long,Rejected
+SYN-B-060,R2,6.3,IT Services,"Java, Spring Boot, SQL, Kafka, Docker",Hyderabad,30,,Shortlisted
+SYN-B-061,R2,2.0,IT Services,"Java, Spring Boot, Kafka, Microservices, REST APIs, System Design",Hyderabad,45,Too junior,Rejected
+SYN-B-062,R3,4.1,IT Services,"Java, Spring Boot, Kubernetes, AWS, Microservices",Remote,45,Too junior,Rejected
+SYN-B-063,R1,5.9,FinTech,"Java, Spring Boot, System Design, SQL, Docker",Bengaluru,45,Insufficient production ownership,Rejected
+SYN-B-064,R2,5.8,SaaS,"Java, Spring Boot, System Design, AWS",Pune,90,,Shortlisted
+SYN-B-065,R2,7.6,SaaS,"Java, Spring Boot, Kafka, REST APIs",Hyderabad,90,Notice period too long,Rejected
+SYN-B-066,R3,1.7,SaaS,"Java, Spring Boot, SQL, System Design",Pune,60,Too junior,Rejected
+SYN-B-067,R3,4.8,Developer Tools,"Java, Spring Boot, System Design, REST APIs",Delhi NCR,15,,Shortlisted
+SYN-B-068,R2,6.6,Developer Tools,"Java, Spring Boot, System Design, Kafka, SQL, Kubernetes",Remote,45,,Shortlisted
+SYN-B-069,R3,1.4,IT Services,"Microservices, Docker",Hyderabad,60,Too junior,Rejected
+SYN-B-070,R1,0.5,Banking,"Java, Spring Boot, SQL, REST APIs",Hyderabad,45,Too junior,Rejected
+SYN-B-071,R3,6.2,FinTech,"Java, Spring Boot, System Design, SQL, AWS",Bengaluru,60,Insufficient production ownership,Rejected
+SYN-B-072,R2,9.3,SaaS,"Java, Spring Boot, Docker, System Design, REST APIs, Kafka",Bengaluru,45,,Shortlisted
+SYN-B-073,R1,4.6,Developer Tools,"Java, Spring Boot, AWS, Docker",Hyderabad,15,,Shortlisted
+SYN-B-074,R2,6.1,FinTech,"Java, Spring Boot, Microservices, System Design, Docker, AWS",Bengaluru,45,,Shortlisted
+SYN-B-075,R3,5.5,Banking,"Java, Spring Boot, Kubernetes, Microservices",Bengaluru,60,Salary mismatch,Rejected
+SYN-B-076,R3,7.0,FinTech,"Java, Spring Boot, SQL, Docker, System Design",Pune,90,Notice period too long,Rejected
+SYN-B-077,R2,2.9,Banking,"Java, SQL, Docker, Kafka, System Design",Hyderabad,45,Too junior,Rejected
+SYN-B-078,R1,6.4,SaaS,"Java, Spring Boot, Kubernetes, Docker, AWS, Kafka",Remote,60,,Shortlisted
+SYN-B-079,R1,4.5,FinTech,"Java, Spring Boot, Microservices, Docker, System Design, Kubernetes",Pune,30,,Shortlisted
+SYN-B-080,R3,9.5,E-commerce,"Java, Spring Boot, REST APIs, Docker, System Design",Bengaluru,45,,Shortlisted
+SYN-B-081,R3,6.2,Healthcare,"Java, Spring Boot, Microservices, REST APIs, Kafka",Pune,30,Wrong domain,Rejected
+SYN-B-082,R2,4.2,Healthcare,"Java, Kubernetes, System Design",Delhi NCR,60,Missing critical skills,Rejected
+SYN-B-083,R2,7.7,FinTech,"Java, Spring Boot, Docker, REST APIs",Hyderabad,30,,Shortlisted
+SYN-B-084,R3,5.2,IT Services,"Kafka, SQL, Docker, REST APIs",Hyderabad,90,Missing critical skills,Rejected
+SYN-B-085,R2,3.8,Banking,"Java, Spring Boot, REST APIs, Docker",Remote,15,,Shortlisted
+SYN-B-086,R3,3.5,Banking,"Java, Spring Boot, AWS, Docker",Delhi NCR,45,Too junior,Rejected
+SYN-B-087,R2,4.2,Developer Tools,"Java, Spring Boot, Docker, System Design, Kafka",Pune,60,,Shortlisted
+SYN-B-088,R3,7.0,Healthcare,"Java, Spring Boot, Kafka, System Design",Remote,60,Wrong domain,Rejected
+SYN-B-089,R1,8.3,Banking,"Microservices, Kafka",Pune,15,Missing critical skills,Rejected
+SYN-B-090,R2,4.4,IT Services,"AWS, SQL, REST APIs, System Design",Bengaluru,60,Missing critical skills,Rejected
+SYN-B-091,R2,5.7,Developer Tools,"Java, REST APIs, SQL, System Design",Hyderabad,90,Missing critical skills,Rejected
+SYN-B-092,R2,0.6,Healthcare,"Java, Kubernetes, AWS, Kafka",Bengaluru,45,Too junior,Rejected
+SYN-B-093,R1,5.9,IT Services,"Java, Spring Boot, SQL, System Design",Bengaluru,90,,Shortlisted
+SYN-B-094,R2,5.2,Healthcare,"Java, Spring Boot, Docker, Microservices, System Design",Delhi NCR,30,,Shortlisted
+SYN-B-095,R2,6.2,Banking,"Java, Spring Boot, AWS, Docker",Remote,60,,Shortlisted
+SYN-B-096,R2,3.9,Healthcare,"Java, Spring Boot, Kafka, REST APIs, AWS, Microservices",Pune,45,,Shortlisted
+SYN-B-097,R2,5.3,Banking,"Kafka, Docker, Microservices",Pune,60,Missing critical skills,Rejected
+SYN-B-098,R3,3.7,E-commerce,"Java, Spring Boot, SQL, Microservices, System Design",Bengaluru,30,Too junior,Rejected
+SYN-B-099,R3,3.7,IT Services,"Java, Spring Boot, REST APIs, System Design",Delhi NCR,15,Too junior,Rejected
+SYN-B-100,R3,3.9,Healthcare,"Microservices, Kubernetes, REST APIs",Delhi NCR,30,Too junior,Rejected
+SYN-B-101,R3,2.6,Banking,"Java, Spring Boot, AWS, SQL",Pune,45,Too junior,Rejected
+SYN-B-102,R1,4.8,Banking,"Java, Spring Boot, Docker, Kubernetes",Remote,60,,Shortlisted
+SYN-B-103,R1,5.0,FinTech,"Java, Spring Boot, SQL, Microservices, Docker",Remote,60,,Shortlisted
+SYN-B-104,R1,10.0,SaaS,"Java, Spring Boot, SQL, Kafka, Microservices",Pune,90,Notice period too long,Rejected
+SYN-B-105,R1,4.9,IT Services,"Java, Spring Boot, Kubernetes, SQL, Docker",Hyderabad,90,Notice period too long,Rejected
+SYN-B-106,R2,7.0,SaaS,"Java, Spring Boot, AWS, Docker, SQL, Kafka",Pune,15,,Shortlisted
+SYN-B-107,R1,7.6,IT Services,"Java, Spring Boot, System Design, Microservices, AWS, Kafka",Bengaluru,90,Notice period too long,Rejected
+SYN-B-108,R3,7.0,Developer Tools,"Java, Spring Boot, Kafka, SQL, AWS",Remote,90,Notice period too long,Rejected
+SYN-B-109,R2,3.8,E-commerce,"Java, Spring Boot, AWS, Kafka",Delhi NCR,60,Location mismatch,Rejected
+SYN-B-110,R3,6.3,IT Services,"Java, Spring Boot, Microservices, Kubernetes, Docker, Kafka",Bengaluru,90,Notice period too long,Rejected
+SYN-B-111,R2,6.7,IT Services,"Java, Spring Boot, Kafka, Kubernetes, Docker, AWS",Remote,60,,Shortlisted
+SYN-B-112,R2,2.7,IT Services,"Java, Spring Boot, AWS, Kafka, Microservices",Hyderabad,90,Too junior,Rejected
+SYN-B-113,R2,4.9,SaaS,"Java, Spring Boot, Docker, System Design",Pune,60,,Shortlisted
+SYN-B-114,R3,4.2,E-commerce,"Java, Spring Boot, SQL, Docker, AWS, Microservices",Pune,15,Too junior,Rejected
+SYN-B-115,R3,5.9,Healthcare,"Java, Spring Boot, SQL, AWS, System Design, Microservices",Hyderabad,45,Wrong domain,Rejected
+SYN-B-116,R2,5.1,IT Services,"Microservices, Kubernetes, Docker, AWS",Delhi NCR,90,Missing critical skills,Rejected
+SYN-B-117,R3,3.4,Developer Tools,"Java, Spring Boot, AWS, System Design",Delhi NCR,15,Too junior,Rejected
+SYN-B-118,R2,2.7,Banking,"Java, Spring Boot, Docker, Kafka, AWS",Remote,90,Too junior,Rejected
+SYN-B-119,R3,5.4,E-commerce,"Java, Spring Boot, AWS, Kafka",Pune,60,,Shortlisted
+SYN-B-120,R2,4.3,Banking,"Java, Spring Boot, Kafka, Kubernetes, AWS",Hyderabad,45,,Shortlisted
+SYN-B-121,R2,2.6,Developer Tools,"Java, Spring Boot, Kafka, REST APIs, System Design",Bengaluru,45,Too junior,Rejected
+SYN-B-122,R1,1.6,FinTech,"Java, Spring Boot, Docker, System Design, AWS, REST APIs",Pune,15,Too junior,Rejected
+SYN-B-123,R1,7.5,IT Services,"Java, Spring Boot, SQL, Kubernetes, AWS, Docker",Pune,60,,Shortlisted
+SYN-B-124,R2,4.4,E-commerce,"Java, Spring Boot, Docker, System Design",Pune,45,,Shortlisted
+SYN-B-125,R1,5.5,Developer Tools,"Java, System Design, SQL, Microservices, AWS",Remote,45,Missing critical skills,Rejected
+SYN-B-126,R1,5.7,E-commerce,"Java, Kafka, System Design, SQL",Bengaluru,15,Missing critical skills,Rejected
+SYN-B-127,R3,4.1,SaaS,"Java, System Design, SQL, REST APIs, Docker",Remote,45,Too junior,Rejected
+SYN-B-128,R1,5.1,E-commerce,"Java, SQL, Docker, Microservices, AWS",Bengaluru,90,Missing critical skills,Rejected
+SYN-B-129,R3,3.9,E-commerce,"Java, Spring Boot, Docker, REST APIs",Bengaluru,45,Too junior,Rejected
+SYN-B-130,R2,0.6,IT Services,"Java, Spring Boot, Kafka, System Design",Bengaluru,90,Too junior,Rejected
+SYN-B-131,R2,5.0,Developer Tools,"Java, Docker, SQL",Delhi NCR,45,Missing critical skills,Rejected
+SYN-B-132,R3,2.9,SaaS,"Java, Spring Boot, AWS, Kubernetes, Microservices, SQL",Pune,30,Too junior,Rejected
+SYN-B-133,R1,6.0,SaaS,"Java, Spring Boot, Kubernetes, AWS, Microservices",Hyderabad,90,Notice period too long,Rejected
+SYN-B-134,R1,5.1,Banking,"Java, Spring Boot, Kafka, REST APIs, Kubernetes, SQL",Delhi NCR,60,,Shortlisted
+SYN-B-135,R3,0.5,IT Services,"REST APIs, SQL",Remote,45,Too junior,Rejected
+SYN-B-136,R3,4.7,FinTech,"Microservices, System Design, Kubernetes, Kafka",Pune,15,Missing critical skills,Rejected
+SYN-B-137,R3,7.6,Developer Tools,"Kubernetes, REST APIs, Docker",Pune,15,Missing critical skills,Rejected
+SYN-B-138,R3,1.2,Developer Tools,"Java, Spring Boot, Kafka, Microservices, SQL, Docker",Delhi NCR,45,Too junior,Rejected
+SYN-B-139,R3,3.2,Banking,"AWS, Microservices",Pune,60,Too junior,Rejected
+SYN-B-140,R1,3.1,Developer Tools,"Java, Spring Boot, SQL, System Design, AWS",Hyderabad,60,,Shortlisted
+SYN-B-141,R3,4.3,Banking,"Java, Kafka, Kubernetes, Docker, SQL",Remote,60,Too junior,Rejected
+SYN-B-142,R1,1.6,Developer Tools,"System Design, Kafka, AWS",Hyderabad,15,Too junior,Rejected
+SYN-B-143,R2,5.5,Developer Tools,"Java, Spring Boot, Docker, REST APIs, Kafka",Hyderabad,60,,Shortlisted
+SYN-B-144,R1,5.4,IT Services,"Java, Spring Boot, REST APIs, Docker",Delhi NCR,60,,Shortlisted
+SYN-B-145,R1,5.9,IT Services,"Java, AWS, REST APIs",Pune,60,Missing critical skills,Rejected
+SYN-B-146,R1,10.0,IT Services,"Java, REST APIs, Kubernetes, SQL, System Design",Hyderabad,60,Missing critical skills,Rejected
+SYN-B-147,R3,5.7,Developer Tools,"Java, Spring Boot, REST APIs, Kafka",Remote,90,,Shortlisted
+SYN-B-148,R1,5.4,Developer Tools,"Java, Spring Boot, SQL, Microservices, Kubernetes",Hyderabad,30,,Shortlisted
+SYN-B-149,R3,7.2,Developer Tools,"Java, Spring Boot, SQL, Microservices, AWS",Hyderabad,90,Notice period too long,Rejected
+SYN-B-150,R2,5.6,Banking,"Java, Spring Boot, REST APIs, Kafka, Docker",Bengaluru,60,,Shortlisted
+SYN-B-151,R2,3.7,E-commerce,"Java, Spring Boot, AWS, Kafka",Hyderabad,60,,Shortlisted
+SYN-B-152,R3,5.6,Banking,"Java, Spring Boot, REST APIs, AWS",Hyderabad,45,,Shortlisted
+SYN-B-153,R1,10.0,Banking,"Java, Spring Boot, AWS, System Design",Delhi NCR,30,,Shortlisted
+SYN-B-154,R2,6.9,IT Services,"Java, Spring Boot, Kubernetes, Docker, AWS",Remote,60,,Shortlisted
+SYN-B-155,R1,0.9,IT Services,"Java, Spring Boot, AWS, Kubernetes, SQL, REST APIs",Hyderabad,90,Too junior,Rejected
+SYN-B-156,R3,4.5,Developer Tools,"Java, Spring Boot, Kafka, Kubernetes, AWS",Delhi NCR,15,,Shortlisted
+SYN-B-157,R2,2.0,Developer Tools,"Java, Spring Boot, Microservices, AWS",Hyderabad,30,Too junior,Rejected
+SYN-B-158,R1,5.9,IT Services,"Java, Spring Boot, System Design, SQL, Docker",Pune,90,Notice period too long,Rejected
+SYN-B-159,R2,7.7,SaaS,"Java, Spring Boot, Kafka, Microservices, Kubernetes, System Design",Pune,60,,Shortlisted
+SYN-B-160,R2,3.0,IT Services,"Java, Spring Boot, System Design, SQL, Docker, AWS",Pune,90,Too junior,Rejected
+SYN-B-161,R3,5.2,FinTech,"Java, Spring Boot, Docker, System Design, SQL",Remote,90,Insufficient production ownership,Rejected
+SYN-B-162,R2,4.3,IT Services,"Java, Spring Boot, System Design, AWS, Kafka",Delhi NCR,90,Notice period too long,Rejected
+SYN-B-163,R2,3.0,IT Services,"Java, SQL, System Design, REST APIs",Hyderabad,45,Too junior,Rejected
+SYN-B-164,R1,4.3,Banking,"Java, Spring Boot, AWS, Kafka, SQL, System Design",Hyderabad,60,,Shortlisted
+SYN-B-165,R1,4.7,Banking,"Java, REST APIs, Kafka, System Design, Microservices",Bengaluru,60,Missing critical skills,Rejected
+SYN-B-166,R2,4.2,Healthcare,"Java, Spring Boot, Microservices, SQL, AWS, Docker",Hyderabad,60,Wrong domain,Rejected
+SYN-B-167,R3,5.4,Healthcare,"Java, Spring Boot, Microservices, REST APIs, Docker",Pune,45,Wrong domain,Rejected
+SYN-B-168,R2,5.2,IT Services,"Java, Spring Boot, AWS, SQL",Remote,60,,Shortlisted
+SYN-B-169,R3,2.7,Developer Tools,"Java, Spring Boot, AWS, SQL, Microservices, Kubernetes",Hyderabad,60,Too junior,Rejected
+SYN-B-170,R2,5.6,Banking,"Java, System Design, AWS",Delhi NCR,60,Missing critical skills,Rejected
+SYN-B-171,R2,3.0,SaaS,"Java, Spring Boot, SQL, Kubernetes, System Design, Kafka",Pune,45,Too junior,Rejected
+SYN-B-172,R1,8.9,SaaS,"Java, Spring Boot, REST APIs, AWS, Microservices, Kafka",Remote,60,,Shortlisted
+SYN-B-173,R2,6.7,Developer Tools,"Java, Spring Boot, Docker, Kubernetes, SQL, Microservices",Bengaluru,45,,Shortlisted
+SYN-B-174,R3,6.0,SaaS,"Java, Spring Boot, REST APIs, Kafka, Microservices",Delhi NCR,30,,Shortlisted
+SYN-B-175,R1,6.7,SaaS,"Java, Spring Boot, SQL, REST APIs, System Design, Kubernetes",Pune,90,Notice period too long,Rejected
+SYN-B-176,R3,4.6,IT Services,"Java, Spring Boot, Microservices, System Design, Kafka, Docker",Pune,45,,Shortlisted
+SYN-B-177,R1,4.8,IT Services,"Java, REST APIs, Microservices, Kubernetes",Hyderabad,60,Missing critical skills,Rejected
+SYN-B-178,R2,8.3,Banking,"Java, Spring Boot, Docker, SQL",Delhi NCR,15,,Shortlisted
+SYN-B-179,R2,7.1,Healthcare,"Kubernetes, SQL",Bengaluru,90,Missing critical skills,Rejected
+SYN-B-180,R2,3.9,Developer Tools,"Java, Spring Boot, Docker, Microservices, Kafka",Remote,45,,Shortlisted
+SYN-B-181,R1,5.8,IT Services,"Java, Spring Boot, Kubernetes, Microservices, Kafka, SQL",Hyderabad,60,,Shortlisted
+SYN-B-182,R2,5.2,Developer Tools,"Java, Microservices, Kafka, REST APIs, System Design",Hyderabad,45,Missing critical skills,Rejected
+SYN-B-183,R2,5.2,Banking,"Java, Spring Boot, Docker, System Design, Kubernetes",Remote,90,Notice period too long,Rejected
+SYN-B-184,R3,4.1,Banking,"Java, Spring Boot, Microservices, System Design, AWS",Delhi NCR,60,Too junior,Rejected
+SYN-B-185,R1,3.1,Developer Tools,"Java, Spring Boot, Kubernetes, Kafka, AWS",Pune,45,,Shortlisted
+SYN-B-186,R2,3.6,IT Services,"Java, Spring Boot, AWS, Microservices, System Design",Hyderabad,15,,Shortlisted
+SYN-B-187,R2,5.4,IT Services,"Java, Spring Boot, Docker, Kafka, REST APIs, AWS",Remote,90,Notice period too long,Rejected
+SYN-B-188,R3,5.4,Banking,"Java, Spring Boot, SQL, Kafka, Kubernetes, AWS",Hyderabad,30,,Shortlisted
+SYN-B-189,R3,0.5,IT Services,"Java, Spring Boot, Docker, SQL, Kubernetes, AWS",Delhi NCR,45,Too junior,Rejected
+SYN-B-190,R3,3.0,Banking,"Java, Spring Boot, Microservices, Kubernetes",Remote,30,Too junior,Rejected
+SYN-B-191,R1,2.7,SaaS,"Java, Spring Boot, REST APIs, Kubernetes",Remote,60,Too junior,Rejected
+SYN-B-192,R1,4.1,IT Services,"Java, Spring Boot, AWS, Docker",Bengaluru,45,,Shortlisted
+SYN-B-193,R2,4.1,IT Services,"Java, Spring Boot, SQL, Kubernetes",Delhi NCR,60,Insufficient production ownership,Rejected
+SYN-B-194,R3,6.0,Healthcare,"Java, Spring Boot, Kafka, Docker, System Design, REST APIs",Bengaluru,30,Wrong domain,Rejected
+SYN-B-195,R3,7.7,FinTech,"Java, Spring Boot, Kafka, SQL, Docker, Kubernetes",Bengaluru,15,,Shortlisted
+SYN-B-196,R3,6.4,SaaS,"Java, Spring Boot, Kafka, Docker, System Design, Microservices",Delhi NCR,60,Location mismatch,Rejected
+SYN-B-197,R1,5.2,Banking,"AWS, SQL",Delhi NCR,60,Missing critical skills,Rejected
+SYN-B-198,R2,6.8,Banking,"AWS, Microservices, Kafka",Hyderabad,90,Missing critical skills,Rejected
+SYN-B-199,R3,8.8,FinTech,"Java, Spring Boot, System Design, Kubernetes, REST APIs",Remote,60,,Shortlisted
+SYN-B-200,R1,4.6,Healthcare,"Java, Spring Boot, SQL, System Design",Remote,45,Wrong domain,Rejected

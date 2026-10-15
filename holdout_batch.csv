@@ -1,0 +1,121 @@
+candidate_id,experience_years,domain,skills,location,notice_period_days,recruiter_relevant
+SYN-H-001,3.8,Banking,"Java, Spring Boot, Kafka, System Design, SQL",Pune,45,0
+SYN-H-002,4.2,Healthcare,"Java, Spring Boot, Kafka, Kubernetes",Hyderabad,15,1
+SYN-H-003,7.1,Banking,"Java, Spring Boot, AWS, Kubernetes",Delhi NCR,30,1
+SYN-H-004,1.6,E-commerce,"Java, Spring Boot, Kubernetes, Microservices",Hyderabad,60,0
+SYN-H-005,6.8,Banking,"Java, Spring Boot, Docker, Microservices",Remote,60,1
+SYN-H-006,3.3,Developer Tools,"Java, Spring Boot, Microservices, Kafka",Bengaluru,15,0
+SYN-H-007,6.1,FinTech,"AWS, SQL, Kubernetes",Hyderabad,60,0
+SYN-H-008,6.1,SaaS,"Java, Spring Boot, SQL, Microservices",Hyderabad,60,1
+SYN-H-009,1.2,Developer Tools,"Java, Spring Boot, Microservices, Kafka",Bengaluru,60,0
+SYN-H-010,6.3,IT Services,"Java, Spring Boot, REST APIs, Docker, Kubernetes",Bengaluru,60,1
+SYN-H-011,5.7,Developer Tools,"Java, Spring Boot, Docker, System Design",Delhi NCR,15,1
+SYN-H-012,3.4,Banking,"Docker, Kafka, Kubernetes",Remote,90,0
+SYN-H-013,8.5,IT Services,"Java, Spring Boot, Microservices, System Design",Bengaluru,45,1
+SYN-H-014,7.7,Developer Tools,"Java, Spring Boot, Kafka, Microservices, System Design, Kubernetes",Pune,60,1
+SYN-H-015,5.6,IT Services,"Java, Spring Boot, Kubernetes, REST APIs, System Design",Pune,90,0
+SYN-H-016,6.7,Banking,"SQL, Kubernetes",Delhi NCR,90,0
+SYN-H-017,1.8,Banking,"AWS, Kafka",Hyderabad,45,0
+SYN-H-018,2.8,Banking,"Java, Spring Boot, System Design, REST APIs, Kafka",Pune,90,0
+SYN-H-019,4.0,FinTech,"Java, Kafka, SQL",Pune,60,0
+SYN-H-020,8.3,IT Services,"Kubernetes, SQL, Microservices",Delhi NCR,45,0
+SYN-H-021,4.4,E-commerce,"Java, Spring Boot, Microservices, SQL",Hyderabad,60,1
+SYN-H-022,4.5,E-commerce,"Java, Spring Boot, Kubernetes, REST APIs, SQL",Remote,60,1
+SYN-H-023,4.4,Banking,"Java, Kubernetes, System Design",Remote,90,0
+SYN-H-024,6.6,IT Services,"Java, Spring Boot, System Design, Kafka, Docker",Delhi NCR,15,1
+SYN-H-025,4.2,Healthcare,"SQL, Kubernetes",Hyderabad,60,1
+SYN-H-026,10.0,Healthcare,"Java, Spring Boot, Kafka, Kubernetes",Pune,60,1
+SYN-H-027,9.2,Developer Tools,"Java, Kafka, Kubernetes",Delhi NCR,30,0
+SYN-H-028,6.5,E-commerce,"Java, Spring Boot, Docker, Kafka, SQL",Remote,15,0
+SYN-H-029,3.7,IT Services,"Kubernetes, Kafka, Docker, REST APIs",Hyderabad,30,1
+SYN-H-030,2.3,Banking,"Java, Spring Boot, Kubernetes, Microservices, REST APIs, SQL",Hyderabad,90,0
+SYN-H-031,3.0,Banking,"Java, Spring Boot, REST APIs, Kafka, Docker",Pune,45,0
+SYN-H-032,7.6,SaaS,"Java, AWS, REST APIs",Remote,45,0
+SYN-H-033,8.2,IT Services,"Java, Spring Boot, REST APIs, Microservices",Hyderabad,60,1
+SYN-H-034,5.2,IT Services,"Java, Docker, Kubernetes, System Design",Pune,30,0
+SYN-H-035,4.6,IT Services,"Java, Spring Boot, System Design, Kubernetes, REST APIs",Remote,60,1
+SYN-H-036,5.4,Banking,"Kafka, System Design, Docker, REST APIs",Delhi NCR,30,0
+SYN-H-037,6.8,E-commerce,"Java, Spring Boot, REST APIs, AWS, Kafka",Hyderabad,60,1
+SYN-H-038,5.1,SaaS,"Java, SQL, Kubernetes, Docker",Delhi NCR,30,0
+SYN-H-039,4.1,SaaS,"Java, Spring Boot, Docker, Microservices, Kubernetes, Kafka",Hyderabad,30,1
+SYN-H-040,7.1,Healthcare,"SQL, System Design, Kafka",Delhi NCR,45,1
+SYN-H-041,8.7,Banking,"Java, Spring Boot, Kubernetes, System Design, REST APIs",Hyderabad,45,1
+SYN-H-042,10.0,SaaS,"Docker, Microservices",Pune,45,0
+SYN-H-043,4.5,E-commerce,"Java, Spring Boot, Kafka, Docker",Remote,60,1
+SYN-H-044,3.1,SaaS,"Java, Spring Boot, REST APIs, AWS, System Design, Kubernetes",Bengaluru,90,0
+SYN-H-045,6.5,SaaS,"Java, Spring Boot, REST APIs, System Design, Kubernetes",Delhi NCR,30,1
+SYN-H-046,6.7,SaaS,"Kafka, System Design, AWS",Bengaluru,30,0
+SYN-H-047,5.5,Healthcare,"Java, Spring Boot, REST APIs, SQL, Docker",Remote,60,1
+SYN-H-048,2.7,Banking,"Java, Spring Boot, Microservices, AWS, System Design, REST APIs",Pune,60,0
+SYN-H-049,4.5,Banking,"Java, Spring Boot, Microservices, System Design, Kafka",Pune,60,0
+SYN-H-050,5.4,SaaS,"Java, Kafka, Kubernetes, AWS, Microservices",Remote,90,0
+SYN-H-051,5.8,Banking,"Java, Spring Boot, System Design, SQL, REST APIs, Kafka",Remote,45,1
+SYN-H-052,5.0,IT Services,"Java, Spring Boot, System Design, Kafka, AWS",Hyderabad,30,1
+SYN-H-053,6.6,SaaS,"Kafka, SQL",Hyderabad,45,0
+SYN-H-054,5.7,IT Services,"Java, Spring Boot, System Design, Kafka, AWS",Delhi NCR,90,0
+SYN-H-055,1.3,SaaS,"Java, Spring Boot, Microservices, Kafka",Delhi NCR,90,0
+SYN-H-056,6.0,Banking,"Java, System Design, Kubernetes",Pune,90,0
+SYN-H-057,6.3,Healthcare,"Java, Spring Boot, Microservices, SQL, Kubernetes, AWS",Pune,90,1
+SYN-H-058,5.1,E-commerce,"Java, Spring Boot, SQL, REST APIs",Pune,90,0
+SYN-H-059,7.5,Banking,"SQL, REST APIs, Kubernetes",Hyderabad,60,0
+SYN-H-060,6.9,Healthcare,"Java, Spring Boot, SQL, Kubernetes",Remote,60,1
+SYN-H-061,3.1,E-commerce,"Kubernetes, System Design, Kafka, REST APIs",Remote,30,0
+SYN-H-062,0.5,E-commerce,"Java, System Design, Microservices, Docker",Pune,60,0
+SYN-H-063,3.7,IT Services,"Java, Kafka, Kubernetes, REST APIs",Bengaluru,90,0
+SYN-H-064,9.5,IT Services,"Java, Spring Boot, System Design, AWS, Kafka, REST APIs",Pune,90,0
+SYN-H-065,7.5,E-commerce,"AWS, REST APIs, SQL, Kubernetes",Delhi NCR,45,1
+SYN-H-066,6.0,Banking,"Java, Spring Boot, System Design, Kafka",Bengaluru,60,0
+SYN-H-067,6.6,SaaS,"Java, REST APIs, Docker, SQL",Bengaluru,30,0
+SYN-H-068,4.4,Banking,"Kubernetes, AWS, Docker, REST APIs",Pune,30,1
+SYN-H-069,5.5,Healthcare,"Java, Spring Boot, SQL, Kubernetes, Docker, Kafka",Hyderabad,60,1
+SYN-H-070,6.8,E-commerce,"Java, Spring Boot, Microservices, Docker",Delhi NCR,60,1
+SYN-H-071,2.1,Healthcare,"Java, Spring Boot, System Design, Microservices, Docker",Bengaluru,15,0
+SYN-H-072,2.6,Healthcare,"SQL, Kubernetes",Bengaluru,45,0
+SYN-H-073,3.6,IT Services,"Java, System Design, SQL, AWS, Microservices",Delhi NCR,60,0
+SYN-H-074,2.3,SaaS,"Java, Spring Boot, REST APIs, AWS, System Design",Pune,30,0
+SYN-H-075,5.9,SaaS,"Kafka, Kubernetes",Remote,60,0
+SYN-H-076,6.0,SaaS,"Microservices, Kafka, System Design, AWS",Bengaluru,30,0
+SYN-H-077,6.6,Banking,"Java, Spring Boot, AWS, SQL, Kafka",Hyderabad,60,1
+SYN-H-078,8.2,Developer Tools,"Java, Spring Boot, SQL, Kubernetes",Delhi NCR,30,1
+SYN-H-079,5.8,E-commerce,"Java, Spring Boot, Kubernetes, AWS",Bengaluru,90,0
+SYN-H-080,7.0,E-commerce,"Java, Kafka, Kubernetes, REST APIs",Pune,60,0
+SYN-H-081,10.0,SaaS,"Java, Spring Boot, SQL, Kubernetes, Docker, Kafka",Pune,90,0
+SYN-H-082,3.5,IT Services,"Java, Spring Boot, REST APIs, AWS",Delhi NCR,45,0
+SYN-H-083,4.3,SaaS,"Microservices, System Design, AWS, SQL",Remote,45,0
+SYN-H-084,0.9,Banking,"Java, Spring Boot, SQL, Docker",Bengaluru,30,0
+SYN-H-085,3.9,E-commerce,"Java, Spring Boot, REST APIs, AWS",Pune,90,0
+SYN-H-086,2.0,E-commerce,"Java, Spring Boot, REST APIs, Docker, Kubernetes, System Design",Delhi NCR,45,0
+SYN-H-087,5.8,SaaS,"Kubernetes, Kafka",Hyderabad,45,0
+SYN-H-088,4.2,SaaS,"Java, Spring Boot, SQL, AWS, Kubernetes, Microservices",Remote,60,1
+SYN-H-089,5.1,IT Services,"Java, System Design, Docker",Hyderabad,45,0
+SYN-H-090,6.2,E-commerce,"SQL, Kafka",Delhi NCR,45,0
+SYN-H-091,4.4,Healthcare,"Java, Spring Boot, SQL, Docker",Hyderabad,90,0
+SYN-H-092,4.5,IT Services,"AWS, Microservices",Pune,60,0
+SYN-H-093,3.2,E-commerce,"Java, Spring Boot, Docker, SQL",Hyderabad,90,0
+SYN-H-094,2.7,Healthcare,"Java, Spring Boot, System Design, Microservices, AWS, SQL",Bengaluru,60,0
+SYN-H-095,8.9,Developer Tools,"System Design, Microservices",Pune,60,0
+SYN-H-096,7.2,SaaS,"Java, Spring Boot, Microservices, SQL, REST APIs, Docker",Bengaluru,90,0
+SYN-H-097,2.5,IT Services,"Java, System Design, SQL, Docker",Hyderabad,45,0
+SYN-H-098,5.3,E-commerce,"Java, Spring Boot, Docker, REST APIs",Remote,45,1
+SYN-H-099,4.0,SaaS,"Java, Spring Boot, Microservices, AWS",Pune,90,0
+SYN-H-100,4.5,Developer Tools,"Java, Kubernetes, REST APIs, SQL, Microservices",Bengaluru,90,0
+SYN-H-101,8.1,E-commerce,"Java, Spring Boot, REST APIs, Kubernetes, AWS",Bengaluru,90,0
+SYN-H-102,4.5,Banking,"Java, Spring Boot, Docker, SQL",Delhi NCR,45,1
+SYN-H-103,4.8,Banking,"Java, Spring Boot, AWS, SQL, Kafka, Microservices",Pune,60,1
+SYN-H-104,4.6,E-commerce,"Java, Spring Boot, System Design, REST APIs, Kafka, AWS",Delhi NCR,60,1
+SYN-H-105,4.0,Banking,"Java, Spring Boot, Kubernetes, REST APIs, Docker",Bengaluru,15,1
+SYN-H-106,1.3,Banking,"Java, Spring Boot, AWS, REST APIs",Remote,60,0
+SYN-H-107,0.5,Banking,"Java, Spring Boot, Kafka, AWS",Pune,90,0
+SYN-H-108,6.8,IT Services,"Java, Spring Boot, AWS, SQL, REST APIs",Remote,60,1
+SYN-H-109,5.7,SaaS,"Java, Docker, Kubernetes, SQL",Remote,15,0
+SYN-H-110,4.9,SaaS,"Java, Spring Boot, REST APIs, AWS, Kubernetes, Docker",Remote,45,0
+SYN-H-111,7.8,E-commerce,"Java, Spring Boot, Docker, SQL",Hyderabad,45,1
+SYN-H-112,3.5,Banking,"Java, Spring Boot, Docker, REST APIs",Delhi NCR,60,0
+SYN-H-113,4.0,SaaS,"Microservices, Docker",Bengaluru,90,0
+SYN-H-114,1.3,E-commerce,"Java, Spring Boot, Kubernetes, Microservices, Docker",Delhi NCR,60,0
+SYN-H-115,6.3,Developer Tools,"Java, Spring Boot, REST APIs, System Design",Pune,45,1
+SYN-H-116,6.0,IT Services,"Java, Spring Boot, System Design, AWS, Kubernetes",Remote,30,1
+SYN-H-117,1.5,IT Services,"Java, Spring Boot, Kubernetes, AWS, SQL, REST APIs",Pune,15,0
+SYN-H-118,3.2,IT Services,"Java, Spring Boot, Kafka, Docker",Hyderabad,90,0
+SYN-H-119,1.3,IT Services,"Java, Spring Boot, Docker, System Design, REST APIs",Delhi NCR,60,0
+SYN-H-120,6.6,Healthcare,"Java, Spring Boot, REST APIs, Docker, SQL, Kafka",Remote,90,0
