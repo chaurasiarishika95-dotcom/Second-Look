@@ -22,6 +22,8 @@ rej = base[base["decision"] == "Rejected"].copy()
 app = FastAPI(title="Recruiter Feedback Intelligence", version="2.0.0")
 # Some deployment adapters look for the WSGI/ASGI alias `application`.
 application = app
+handler = app  # compatibility alias for hosts that look for a top-level handler
+__all__ = ["app", "application", "handler"]
 
 TXT = {
     "Too junior": {
